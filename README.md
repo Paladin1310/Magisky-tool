@@ -76,4 +76,4 @@ API_HASH: <your_api_hash>
 
 ## Контакты
 
-Telegram: @ransomin
+Telegram: @ransomin (t.me/ransomin)
